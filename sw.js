@@ -287,7 +287,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "101a14647c23b9a064862df246eeea83"
+    "revision": "24e87c4a9b30a622661ea6c6bea14a8e"
   },
   {
     "url": "/2021//topics/index.html",
@@ -319,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "101a14647c23b9a064862df246eeea83"
+    "revision": "24e87c4a9b30a622661ea6c6bea14a8e"
   },
   {
     "url": "/2021//topics/",
