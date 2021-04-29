@@ -13,7 +13,7 @@
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.2.0/workbox-sw.js");
 
-workbox.core.setCacheNameDetails({prefix: "hkoscon-2020"});
+workbox.core.setCacheNameDetails({prefix: "hkoscon-2021"});
 
 workbox.core.skipWaiting();
 
@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//200.html",
-    "revision": "5318e3197455b4c55b395bc5d2868772"
+    "revision": "6eaeec4ed0a344a1eca906451aedc751"
   },
   {
     "url": "/2021//2612f001abba7ff2c51d.css",
@@ -126,6 +126,10 @@ self.__precacheManifest = [
     "revision": "83b9c1dc980eb23903ceea3e9c8411ba"
   },
   {
+    "url": "/2021//8708ed61d0dd0f407a2a.js",
+    "revision": "311069cf8a1df384e2b434c21d9db365"
+  },
+  {
     "url": "/2021//884aef19c7edaf5b65c7.js",
     "revision": "bb4be4ff9360112867443041d348787d"
   },
@@ -138,10 +142,6 @@ self.__precacheManifest = [
     "revision": "f5edcc5f3011133eab90be1c34f0c05c"
   },
   {
-    "url": "/2021//9a4adddb0c30776f952d.js",
-    "revision": "1a029d3da47131445ea6d89a39cbbee4"
-  },
-  {
     "url": "/2021//a135fdcb4e6d1ea140a7.css",
     "revision": "ab84e9c80ac424f2dd483c85db085029"
   },
@@ -151,11 +151,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//about/organizers/index.html",
-    "revision": "1da78ddfb802e701813dd4f10752155f"
+    "revision": "377ddfff5ac32aa2b4e632e9fcf85813"
   },
   {
     "url": "/2021//about/volunteers/index.html",
-    "revision": "1b0095c3b79e6cc48e3247a570320e92"
+    "revision": "d92f494cebc2bc90b3da99879c794381"
   },
   {
     "url": "/2021//bbda7013d57c480a8f01.css",
@@ -175,11 +175,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//cfc/index.html",
-    "revision": "d0536a6258274a690c8bf513adeb26d1"
+    "revision": "0e7b9e7a5fc80c16a58d8bce0a9c0dd2"
   },
   {
     "url": "/2021//cfp/index.html",
-    "revision": "9a3055b1638d0e7436a0c8f93c5e0279"
+    "revision": "384ad374250ddb19867a30ccfd34cf08"
   },
   {
     "url": "/2021//dd7551bf613aa09f8026.js",
@@ -279,51 +279,51 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//index.html",
-    "revision": "7f45eeab9ddae460caef34482b912972"
+    "revision": "721af5b1e082162e6def334c8bd11868"
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "9fee0e794ca1b40aa56fce1b4e428603"
+    "revision": "6e51d04379d942f697280b3305d91e30"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "c132c04e98f1a684f456a3e31404522e"
+    "revision": "584be47f847fb31d0b3da41cd8051667"
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "2906ecd54e3914e29e2a145176e9a033"
+    "revision": "b87ba446f86238f742d9eea5ab4707bd"
   },
   {
     "url": "/2021//about/organizers/",
-    "revision": "1da78ddfb802e701813dd4f10752155f"
+    "revision": "377ddfff5ac32aa2b4e632e9fcf85813"
   },
   {
     "url": "/2021//about/volunteers/",
-    "revision": "1b0095c3b79e6cc48e3247a570320e92"
+    "revision": "d92f494cebc2bc90b3da99879c794381"
   },
   {
     "url": "/2021//cfc/",
-    "revision": "d0536a6258274a690c8bf513adeb26d1"
+    "revision": "0e7b9e7a5fc80c16a58d8bce0a9c0dd2"
   },
   {
     "url": "/2021//cfp/",
-    "revision": "9a3055b1638d0e7436a0c8f93c5e0279"
+    "revision": "384ad374250ddb19867a30ccfd34cf08"
   },
   {
     "url": "/2021//",
-    "revision": "7f45eeab9ddae460caef34482b912972"
+    "revision": "721af5b1e082162e6def334c8bd11868"
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "9fee0e794ca1b40aa56fce1b4e428603"
+    "revision": "6e51d04379d942f697280b3305d91e30"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "c132c04e98f1a684f456a3e31404522e"
+    "revision": "584be47f847fb31d0b3da41cd8051667"
   },
   {
     "url": "/2021//topics/",
-    "revision": "2906ecd54e3914e29e2a145176e9a033"
+    "revision": "b87ba446f86238f742d9eea5ab4707bd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
