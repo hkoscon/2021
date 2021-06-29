@@ -26,44 +26,28 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "/2021//019758fc2792240e5b4b.js",
-    "revision": "2a5d7400ad015d8b31aa2871228721e8"
+    "url": "/2021//057bdaa52445730a03d5.js",
+    "revision": "facbc49c58a77e83402b453a00424333"
   },
   {
-    "url": "/2021//01bda049eadf1b7b1e9e.js",
-    "revision": "7ede7263ea12348168082e1f84a1d33d"
+    "url": "/2021//09afc8b55b0a0b198705.js",
+    "revision": "126b8a25c38c4fb7a01e37a95d00d7ee"
   },
   {
     "url": "/2021//0b72d65e50ac5eb1528d.css",
     "revision": "e3a18a19d075d60d1f1e4d5835d434f0"
   },
   {
-    "url": "/2021//0ed60120e771b94bb2e1.js",
-    "revision": "fcb5df63e152f0e659b9d573bb5b816b"
-  },
-  {
     "url": "/2021//0ffa03a4b3325198b765.css",
     "revision": "0e3190a3834ba99bd57316a7842095fd"
-  },
-  {
-    "url": "/2021//10b977b2d0e49bf6f815.js",
-    "revision": "676efa72929c2bf8b55e497746fb9872"
   },
   {
     "url": "/2021//17ca20c340b930b30b13.css",
     "revision": "5060781f96b359aaad62ccacf5c5e926"
   },
   {
-    "url": "/2021//1aceb630b045f07eb69c.js",
-    "revision": "95712dc3626e92d5249ae4e64bba5130"
-  },
-  {
     "url": "/2021//200.html",
-    "revision": "388ba2e7dc937872befb736f7e81ea9f"
-  },
-  {
-    "url": "/2021//210829964719489282a5.js",
-    "revision": "227c467a550f2842f8648a1b1b08a5a4"
+    "revision": "1dff3f5ea37ef3aeb49cb479aa80564f"
   },
   {
     "url": "/2021//2612f001abba7ff2c51d.css",
@@ -78,36 +62,36 @@ self.__precacheManifest = [
     "revision": "89dc4e8ae838d7afada8ac0bacbf6fb2"
   },
   {
-    "url": "/2021//3c494eec49e16976f278.js",
-    "revision": "cfea50a692636560f79f88d2ac6c1c8e"
+    "url": "/2021//385e5029d579baba8cb2.js",
+    "revision": "6ed5a595e2400c77e43bdac73c2cb0fd"
   },
   {
-    "url": "/2021//4baff002740150d54cf8.js",
-    "revision": "4474d5725a91bb00de3aa828f4785944"
+    "url": "/2021//3897228cb743ff603a2e.js",
+    "revision": "6d362d0896395ac01d5374c619f95697"
   },
   {
     "url": "/2021//4cabc10304e8d80875eb.css",
     "revision": "e796e4f7f653e713a97e1643a791b2e4"
   },
   {
-    "url": "/2021//4d3f107aec95bd90b8c0.js",
-    "revision": "364cc40f5edd9b0e5f037c0e64aea65d"
+    "url": "/2021//54e41e47003f2ceaaf1e.js",
+    "revision": "be8d1fb2f76a8aab661169d6c487294f"
   },
   {
-    "url": "/2021//5088443a69c87e7edf1d.css",
-    "revision": "a251281cc542dc2aff7f4df4e9db56b0"
-  },
-  {
-    "url": "/2021//58ad12e810a48d9bec4b.js",
-    "revision": "bd8836dcb5b968d1ccd9868d24868289"
+    "url": "/2021//55236a4e41f192425191.js",
+    "revision": "b2fb2cdc45b2672993ee95f8d528c6c5"
   },
   {
     "url": "/2021//5d0f711a673f3bb3021f.css",
     "revision": "33c5ac4647794a2b2151cedbc8697921"
   },
   {
-    "url": "/2021//6277ce7683aaa1dfa77d.css",
-    "revision": "772136ef1541b21d75838289f65e1ea6"
+    "url": "/2021//5fbf8ba68c8acfae6234.js",
+    "revision": "53ce4ffd1c8971f84528f9fa278c09ac"
+  },
+  {
+    "url": "/2021//6055b25f10a496cca9b0.js",
+    "revision": "c7dce8798417e69fd3ca740d1424338d"
   },
   {
     "url": "/2021//62e4aa1e084a7b374c50.js",
@@ -118,32 +102,16 @@ self.__precacheManifest = [
     "revision": "7fbf42c8240a9221b921fcfa5be1c28a"
   },
   {
-    "url": "/2021//746c8b6304ed47154edc.js",
-    "revision": "f43ed85d7b04677b0976fab9c90b6872"
-  },
-  {
-    "url": "/2021//7cfb136c3eb07a1fdf2c.js",
-    "revision": "fc616e51feeb269104da67c54d30a370"
-  },
-  {
-    "url": "/2021//7d907818c46378b1e5f9.js",
-    "revision": "cc4a4ebef12c27d9af91beb108d0fdcb"
-  },
-  {
-    "url": "/2021//8825ba241e01f92433ea.js",
-    "revision": "7616c438c55354ee5a59394356b0c752"
+    "url": "/2021//8518241740dc060a4f95.js",
+    "revision": "b6769c2b43907cee98b5be09d343a316"
   },
   {
     "url": "/2021//891dbadc4539d6acf7d8.css",
     "revision": "89ee1381dc18ed5e54bdb19d4c8e6c8e"
   },
   {
-    "url": "/2021//8eb3cde416c55e1e6933.js",
-    "revision": "8b7918962682dea4b0b1bb25dc7d867a"
-  },
-  {
-    "url": "/2021//a0f4ccff7195fa3a67a3.js",
-    "revision": "2dabdeeb3d009670cb0024d9aa1ad970"
+    "url": "/2021//9bc75cc0789d28248192.js",
+    "revision": "19392d2c1d127ac856106341da5f20f5"
   },
   {
     "url": "/2021//a135fdcb4e6d1ea140a7.css",
@@ -151,23 +119,27 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//about/organizers/index.html",
-    "revision": "b112c6be29ec90632246ae0b33cb45f4"
+    "revision": "310500f331a47a15988c5d47f2d50ba6"
   },
   {
     "url": "/2021//about/volunteers/index.html",
-    "revision": "978d24bba587323abc66c22a50021049"
+    "revision": "466f238163c264b75e8e253847cd23c6"
+  },
+  {
+    "url": "/2021//b8eb6a2382e8eea43ba5.js",
+    "revision": "a66d1bb07557f4cd8f13855db0e06bc7"
   },
   {
     "url": "/2021//bbda7013d57c480a8f01.css",
     "revision": "56a413c7db34468fee0e33c47e4717a2"
   },
   {
-    "url": "/2021//bee89a62a1f364ae45b3.js",
-    "revision": "def628fabf7dbc1ca9d47a144b8df744"
+    "url": "/2021//bf8dac443ce985f372eb.js",
+    "revision": "22b2c41b14842cb697d21f36437ab7d3"
   },
   {
-    "url": "/2021//c17c70b60600acfb1e4d.js",
-    "revision": "877a99f4cabd573d7d2f847d228b2cf9"
+    "url": "/2021//c08d11a8066825f1d946.js",
+    "revision": "3e2e28533f238f64b4ef68f77d8aa987"
   },
   {
     "url": "/2021//c39c71655d3bf0172623.js",
@@ -178,24 +150,52 @@ self.__precacheManifest = [
     "revision": "6daa27100b2731025d9c6eb32e1ae6ed"
   },
   {
+    "url": "/2021//c9d86d331ce0f248d2cc.js",
+    "revision": "5dcebf587ce395c3481566309e528bd3"
+  },
+  {
+    "url": "/2021//cf65955f0b3eec8bd93f.js",
+    "revision": "a45f60069883f6e29079315788452211"
+  },
+  {
     "url": "/2021//cfc/index.html",
-    "revision": "770304658b2282ad4050857ba0e38291"
+    "revision": "f4853b57abe1be0d4ee90f202c859eab"
   },
   {
     "url": "/2021//cfp/index.html",
-    "revision": "42fe95df1cac55f0d0d6728a75404c6c"
+    "revision": "eb93ca882d71a62b9b33f6ab8b6833f6"
   },
   {
-    "url": "/2021//dce40f8eb0b07b874705.js",
-    "revision": "7c73b396a4df426d11e5ecbe54e3cdbf"
+    "url": "/2021//d459b1a17ce278b55a66.css",
+    "revision": "5515809e660f12275b2fcc3509624ede"
   },
   {
-    "url": "/2021//dd9c5b86d5731b3ce17b.js",
-    "revision": "2690f78949171ea53155ae3bd0ac0fb0"
+    "url": "/2021//dbdad405eb6bf6e11f9f.js",
+    "revision": "780173ff8d1a42074be458e332ecca1c"
   },
   {
-    "url": "/2021//f3e9bb7a43182cb409cc.js",
-    "revision": "e9c62905d848d2d3ea1ceeea180523d7"
+    "url": "/2021//dcdbf4ed270cfee4317b.js",
+    "revision": "6a5cd77f9d8911803a498cdf73fa2f3d"
+  },
+  {
+    "url": "/2021//e0f3e61dfe94c9a093c7.css",
+    "revision": "4833d4b2629aa7eaff9f7b9fa7bba362"
+  },
+  {
+    "url": "/2021//e2c75d198140057dfa8c.js",
+    "revision": "2fb3a187ce5b7320e36e209c4a99edf3"
+  },
+  {
+    "url": "/2021//e65bd1e50056f289f6c9.js",
+    "revision": "da66e015401440ab180b3dd530d3e9dd"
+  },
+  {
+    "url": "/2021//ea2f1e9ad37cc24fd937.js",
+    "revision": "b7b428b07d2c0334e39a61a014b3ae80"
+  },
+  {
+    "url": "/2021//ef4065912aeb135a94e2.js",
+    "revision": "9e0960a24a10193324eb41f792931d21"
   },
   {
     "url": "/2021//f3ea1d89cf35e19b56b7.css",
@@ -274,10 +274,6 @@ self.__precacheManifest = [
     "revision": "7c31719da41196175814289839bd8a57"
   },
   {
-    "url": "/2021//img/00c3c20.jpg",
-    "revision": "00c3c206b0e3bca35cd572fa724accc1"
-  },
-  {
     "url": "/2021//img/953d2aa.jpg",
     "revision": "953d2aab6980005e12cecd0808d12597"
   },
@@ -287,51 +283,179 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//index.html",
-    "revision": "0ae7a1be059bc19b82f1eb752ced9240"
+    "revision": "11178092cc82c550412953e2bbf472dd"
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "0331476557b369589aba31554ee0933e"
+    "revision": "cabdcee9c4fe267328b89a1fd02e5c68"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "bfd52cb30db3039e98531c03d93251ef"
+    "revision": "6ea8774f49611c2a84f726fda2565483"
+  },
+  {
+    "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
+    "revision": "2d8868d01bc4104d64d153ed6a1c1a51"
+  },
+  {
+    "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/index.html",
+    "revision": "3e64085418a963b4d536cee6dd9a004b"
+  },
+  {
+    "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
+    "revision": "20854f40f62bfdb91f5b267bdba93334"
+  },
+  {
+    "url": "/2021//topics/build-online-technical-community-pandemic-era/index.html",
+    "revision": "f9f5d8bf1a4bda15e46451dda5fe913f"
+  },
+  {
+    "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
+    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
+  },
+  {
+    "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
+    "revision": "011661e9262292ebf65d5647ee2fc149"
+  },
+  {
+    "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/index.html",
+    "revision": "14b6d272333308b4f25c829d163ca57d"
+  },
+  {
+    "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
+    "revision": "34d8bd2e6099d47ba21d40ad5ba87404"
+  },
+  {
+    "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
+    "revision": "05d4b794c84cb935e5fb80733cf568a6"
+  },
+  {
+    "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
+    "revision": "f1b4d92c4125180aa42dcc22601019b7"
+  },
+  {
+    "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
+    "revision": "22d23033df8b31bf3c1227139c325b4b"
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "4929e0963ece722811fab6eb78353414"
+    "revision": "0c0912e91fdcf3bbfafa2c7814162661"
+  },
+  {
+    "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
+    "revision": "02944bcd52a63367fa8840467b26fa11"
+  },
+  {
+    "url": "/2021//topics/open-core-open-opportunities/index.html",
+    "revision": "e15f73224c4c805632a3771158a006fe"
+  },
+  {
+    "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/index.html",
+    "revision": "b0866fc4eda28e5d0584e97b90497784"
+  },
+  {
+    "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
+    "revision": "1997f8b33abee313a9b9d95176efed14"
+  },
+  {
+    "url": "/2021//topics/your-mysql-genuine-mysql/index.html",
+    "revision": "0c4bbb631282dfbad7a5e505b18f54ed"
   },
   {
     "url": "/2021//about/organizers/",
-    "revision": "b112c6be29ec90632246ae0b33cb45f4"
+    "revision": "310500f331a47a15988c5d47f2d50ba6"
   },
   {
     "url": "/2021//about/volunteers/",
-    "revision": "978d24bba587323abc66c22a50021049"
+    "revision": "466f238163c264b75e8e253847cd23c6"
   },
   {
     "url": "/2021//cfc/",
-    "revision": "770304658b2282ad4050857ba0e38291"
+    "revision": "f4853b57abe1be0d4ee90f202c859eab"
   },
   {
     "url": "/2021//cfp/",
-    "revision": "42fe95df1cac55f0d0d6728a75404c6c"
+    "revision": "eb93ca882d71a62b9b33f6ab8b6833f6"
   },
   {
     "url": "/2021//",
-    "revision": "0ae7a1be059bc19b82f1eb752ced9240"
+    "revision": "11178092cc82c550412953e2bbf472dd"
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "0331476557b369589aba31554ee0933e"
+    "revision": "cabdcee9c4fe267328b89a1fd02e5c68"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "bfd52cb30db3039e98531c03d93251ef"
+    "revision": "6ea8774f49611c2a84f726fda2565483"
+  },
+  {
+    "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
+    "revision": "2d8868d01bc4104d64d153ed6a1c1a51"
+  },
+  {
+    "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/",
+    "revision": "3e64085418a963b4d536cee6dd9a004b"
+  },
+  {
+    "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
+    "revision": "20854f40f62bfdb91f5b267bdba93334"
+  },
+  {
+    "url": "/2021//topics/build-online-technical-community-pandemic-era/",
+    "revision": "f9f5d8bf1a4bda15e46451dda5fe913f"
+  },
+  {
+    "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
+    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
+  },
+  {
+    "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
+    "revision": "011661e9262292ebf65d5647ee2fc149"
+  },
+  {
+    "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/",
+    "revision": "14b6d272333308b4f25c829d163ca57d"
+  },
+  {
+    "url": "/2021//topics/flutterkaifalinux-desktop-application/",
+    "revision": "34d8bd2e6099d47ba21d40ad5ba87404"
+  },
+  {
+    "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
+    "revision": "05d4b794c84cb935e5fb80733cf568a6"
+  },
+  {
+    "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
+    "revision": "f1b4d92c4125180aa42dcc22601019b7"
+  },
+  {
+    "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
+    "revision": "22d23033df8b31bf3c1227139c325b4b"
   },
   {
     "url": "/2021//topics/",
-    "revision": "4929e0963ece722811fab6eb78353414"
+    "revision": "0c0912e91fdcf3bbfafa2c7814162661"
+  },
+  {
+    "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
+    "revision": "02944bcd52a63367fa8840467b26fa11"
+  },
+  {
+    "url": "/2021//topics/open-core-open-opportunities/",
+    "revision": "e15f73224c4c805632a3771158a006fe"
+  },
+  {
+    "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/",
+    "revision": "b0866fc4eda28e5d0584e97b90497784"
+  },
+  {
+    "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
+    "revision": "1997f8b33abee313a9b9d95176efed14"
+  },
+  {
+    "url": "/2021//topics/your-mysql-genuine-mysql/",
+    "revision": "0c4bbb631282dfbad7a5e505b18f54ed"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
