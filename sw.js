@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "8a3a24215d4eb1e30bd2521e9023e1e5"
+    "revision": "0c81a0d150d4e40caedc62cfc8e1e034"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -311,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "a99231ad7320f3d4033a8680458d0c78"
+    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "8a3a24215d4eb1e30bd2521e9023e1e5"
+    "revision": "0c81a0d150d4e40caedc62cfc8e1e034"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -407,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "a99231ad7320f3d4033a8680458d0c78"
+    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
