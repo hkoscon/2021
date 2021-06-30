@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "aad585c75fdc90f51fbbcf97ec6b6756"
+    "revision": "70d7c689fa8d0ccba385086800d9598c"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -303,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
-    "revision": "20854f40f62bfdb91f5b267bdba93334"
+    "revision": "0926367f486b12b96b2209e981ed3ae3"
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "aad585c75fdc90f51fbbcf97ec6b6756"
+    "revision": "70d7c689fa8d0ccba385086800d9598c"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -399,7 +399,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
-    "revision": "20854f40f62bfdb91f5b267bdba93334"
+    "revision": "0926367f486b12b96b2209e981ed3ae3"
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/",
