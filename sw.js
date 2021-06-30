@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "5b290ebf16d2d37d2a55bc37be5412f2"
+    "revision": "28eb6e685ceb5d0ca918dfe8b30bbd70"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/index.html",
-    "revision": "3e64085418a963b4d536cee6dd9a004b"
+    "revision": "b87eb95beef03d2d4976251db842bd57"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
@@ -331,7 +331,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
-    "revision": "f1b4d92c4125180aa42dcc22601019b7"
+    "revision": "72efc8b2a72ae807b958a83c6cf76cb1"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "5b290ebf16d2d37d2a55bc37be5412f2"
+    "revision": "28eb6e685ceb5d0ca918dfe8b30bbd70"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -395,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/",
-    "revision": "3e64085418a963b4d536cee6dd9a004b"
+    "revision": "b87eb95beef03d2d4976251db842bd57"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
@@ -427,7 +427,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
-    "revision": "f1b4d92c4125180aa42dcc22601019b7"
+    "revision": "72efc8b2a72ae807b958a83c6cf76cb1"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
