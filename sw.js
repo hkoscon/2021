@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "c43bdbafbf062ee501c2e006c9e36fcf"
+    "revision": "30cc6085f125cffe81f8d368b47ada5b"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -307,11 +307,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/index.html",
-    "revision": "f9f5d8bf1a4bda15e46451dda5fe913f"
+    "revision": "c2de2b10b3dc4cfa43bf87eed5db6292"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
+    "revision": "a99231ad7320f3d4033a8680458d0c78"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
@@ -319,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/index.html",
-    "revision": "14b6d272333308b4f25c829d163ca57d"
+    "revision": "7695336670c479cff5ebc4fcd96b7442"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
@@ -335,7 +335,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
-    "revision": "22d23033df8b31bf3c1227139c325b4b"
+    "revision": "d0ab2dc05821307ad23e7076cc1303d5"
   },
   {
     "url": "/2021//topics/index.html",
@@ -355,7 +355,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
-    "revision": "1997f8b33abee313a9b9d95176efed14"
+    "revision": "8fed5c927513410058bd59ab266a426a"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "c43bdbafbf062ee501c2e006c9e36fcf"
+    "revision": "30cc6085f125cffe81f8d368b47ada5b"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -403,11 +403,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/",
-    "revision": "f9f5d8bf1a4bda15e46451dda5fe913f"
+    "revision": "c2de2b10b3dc4cfa43bf87eed5db6292"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "65cdfc8d0cd3662bd238a32608d4c000"
+    "revision": "a99231ad7320f3d4033a8680458d0c78"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
@@ -415,7 +415,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/",
-    "revision": "14b6d272333308b4f25c829d163ca57d"
+    "revision": "7695336670c479cff5ebc4fcd96b7442"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/",
@@ -431,7 +431,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
-    "revision": "22d23033df8b31bf3c1227139c325b4b"
+    "revision": "d0ab2dc05821307ad23e7076cc1303d5"
   },
   {
     "url": "/2021//topics/",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
-    "revision": "1997f8b33abee313a9b9d95176efed14"
+    "revision": "8fed5c927513410058bd59ab266a426a"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/",
