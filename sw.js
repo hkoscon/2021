@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "466967cb1d8fb7e786399f7f40d9ff16"
+    "revision": "aad585c75fdc90f51fbbcf97ec6b6756"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -323,7 +323,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
-    "revision": "9afb6f9e31bee2c565d08d145090d918"
+    "revision": "5b3a78486e6829d56942e202215ea724"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "466967cb1d8fb7e786399f7f40d9ff16"
+    "revision": "aad585c75fdc90f51fbbcf97ec6b6756"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -419,7 +419,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/",
-    "revision": "9afb6f9e31bee2c565d08d145090d918"
+    "revision": "5b3a78486e6829d56942e202215ea724"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
