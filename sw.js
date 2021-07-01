@@ -291,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "70d7c689fa8d0ccba385086800d9598c"
+    "revision": "1078e4377d97620e24e7bdcb028cba7d"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -339,11 +339,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "0c0912e91fdcf3bbfafa2c7814162661"
+    "revision": "8e8f7597cf2b6397c05c496f480837c2"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
-    "revision": "02944bcd52a63367fa8840467b26fa11"
+    "revision": "c71dfe060bf0f449e7931ced44ee541b"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/index.html",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "70d7c689fa8d0ccba385086800d9598c"
+    "revision": "1078e4377d97620e24e7bdcb028cba7d"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -435,11 +435,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "0c0912e91fdcf3bbfafa2c7814162661"
+    "revision": "8e8f7597cf2b6397c05c496f480837c2"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
-    "revision": "02944bcd52a63367fa8840467b26fa11"
+    "revision": "c71dfe060bf0f449e7931ced44ee541b"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/",
