@@ -47,11 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//200.html",
-    "revision": "dd14bfb75c77b703c93d1f8cda424bbb"
-  },
-  {
-    "url": "/2021//2160383bf2c20a8a4b29.js",
-    "revision": "33d96b9670013556355d85141baaa1a7"
+    "revision": "cd2c35e697961570b9fe997cb32b4b69"
   },
   {
     "url": "/2021//2612f001abba7ff2c51d.css",
@@ -64,10 +60,6 @@ self.__precacheManifest = [
   {
     "url": "/2021//2b78c996e28b016845cc.js",
     "revision": "89dc4e8ae838d7afada8ac0bacbf6fb2"
-  },
-  {
-    "url": "/2021//2ff3677bdc4848d7108b.js",
-    "revision": "68417d41653b0241a5d0130bc7f1bd57"
   },
   {
     "url": "/2021//385e5029d579baba8cb2.js",
@@ -98,6 +90,10 @@ self.__precacheManifest = [
     "revision": "af5310d780495d12c6bd897c564c3905"
   },
   {
+    "url": "/2021//6b45955bbae5ae8152dc.js",
+    "revision": "36eb333869c454ea4b99e98c7a6d2bc8"
+  },
+  {
     "url": "/2021//6bcbe5205aec99664bbc.css",
     "revision": "7fbf42c8240a9221b921fcfa5be1c28a"
   },
@@ -123,11 +119,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//about/organizers/index.html",
-    "revision": "31213fc1c0604572bc1838f36a541f12"
+    "revision": "5dcd63452c6d71f154e172ed5b786430"
   },
   {
     "url": "/2021//about/volunteers/index.html",
-    "revision": "5604b3d6683e95bac6587ef246d3ff0e"
+    "revision": "6dfc0135753cfe2b7c272863288854f2"
   },
   {
     "url": "/2021//b8eb6a2382e8eea43ba5.js",
@@ -146,6 +142,10 @@ self.__precacheManifest = [
     "revision": "d062c2838c2b72edd696f8fe2b61694a"
   },
   {
+    "url": "/2021//c41c4db39d151ced7b34.js",
+    "revision": "b5fc65bc08bcc03c8e5b1bb20016dddb"
+  },
+  {
     "url": "/2021//c440b7cb01eccb4aa698.css",
     "revision": "6daa27100b2731025d9c6eb32e1ae6ed"
   },
@@ -159,11 +159,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//cfc/index.html",
-    "revision": "dfdbc3afa9d38cc989afefd85c642738"
+    "revision": "305a919c18fb18314a2177da0406dabe"
   },
   {
     "url": "/2021//cfp/index.html",
-    "revision": "39df6422d77683c5ef06f13051adfdcb"
+    "revision": "bacb7f82cec8975d8877869a053af851"
   },
   {
     "url": "/2021//d459b1a17ce278b55a66.css",
@@ -291,187 +291,187 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//index.html",
-    "revision": "025b2bfa6b4b0bd750a10ffa7cb4e995"
+    "revision": "84132da9b65c45a05f5ccc4d415d2d87"
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "4bd37f05863184ad538f7e6ca6e0df91"
+    "revision": "b7750adb460dc2dbccae3a45fbcc2a07"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "dda1bf477fc3b80bb912444770b3c9bf"
+    "revision": "ebce91d328bde0a89b2f1ab1a3029510"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
-    "revision": "b27bded61eb905a0502ac54b5da1a3f2"
+    "revision": "87ba9ae8eee941860eb48d5650e1ace2"
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/index.html",
-    "revision": "84f4166c5588f6a2af9dcfdba2a80b96"
+    "revision": "ec0b498817e9858e2d2f9969c0f49c4e"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
-    "revision": "c03e126fa9329bdd03a5e979403ef7e2"
+    "revision": "f444476308a67ec14ed539e6ba6b76e7"
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/index.html",
-    "revision": "0ee00d61fc1a7d3d883e4e3915d6fcf0"
+    "revision": "fcf34ebbcef4a1463ea4cff9f15d1a23"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "e19c0ab060d2c00737c66f058688348a"
+    "revision": "c0312693720eb0c10f2e09895cdcad8c"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
-    "revision": "afdae1b855b2409423268f835ea3848b"
+    "revision": "6e38ecd0ccb2bf22558cd1d818c5dff1"
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/index.html",
-    "revision": "80ebf65a7686587e90ef384ee6318565"
+    "revision": "3eabe6402209cc91ec614b3996f7db6d"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
-    "revision": "d206ea7a1a17d98c0dd734c710fa7293"
+    "revision": "5e1f85f6025626ae07cd2841fb3aca42"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
-    "revision": "aa520120e46427ee1db5a3bc352e2d01"
+    "revision": "c6bcf3d787435cbc08a928d9bc6879b6"
   },
   {
     "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/index.html",
-    "revision": "35f45a8a97d036665aac50f4dec2fc73"
+    "revision": "7a5a46748a7d693094d42a2a84ef4710"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
-    "revision": "420af3c6d5aa205601da24d0144b8dc1"
+    "revision": "1f5d2cb2a2a46784549b57efecdee30b"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
-    "revision": "06eaeb5493104f7e173e4814b83c2874"
+    "revision": "193dc3782ad7b76d52f5128680e1356b"
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "8d5c77d48f2c9af09294b64cf378feee"
+    "revision": "a3249287b042d279fea4a328af751c89"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
-    "revision": "3d08a3b47894f730e0adb1b38efd5bf8"
+    "revision": "9a44e354ced8fcd77c40fb074ab11e49"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/index.html",
-    "revision": "b7c57f95d7c59c056bc0f87f15360d2f"
+    "revision": "f634159b4ad6ff2ec2166b160336941a"
   },
   {
     "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/index.html",
-    "revision": "e03868b6d089bfe7d4309e1c73b4859d"
+    "revision": "92c75440a8c78a4502fb8029277a66e5"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
-    "revision": "c85666a3ae160ac1a1c3e509b3a23d88"
+    "revision": "a4dc6300568ccb1d05768fbb3dc74ea3"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/index.html",
-    "revision": "232c7449b95b5447153863d250bae75a"
+    "revision": "17dfdb7a0ca1332c66fa972a440bd310"
   },
   {
     "url": "/2021//about/organizers/",
-    "revision": "31213fc1c0604572bc1838f36a541f12"
+    "revision": "5dcd63452c6d71f154e172ed5b786430"
   },
   {
     "url": "/2021//about/volunteers/",
-    "revision": "5604b3d6683e95bac6587ef246d3ff0e"
+    "revision": "6dfc0135753cfe2b7c272863288854f2"
   },
   {
     "url": "/2021//cfc/",
-    "revision": "dfdbc3afa9d38cc989afefd85c642738"
+    "revision": "305a919c18fb18314a2177da0406dabe"
   },
   {
     "url": "/2021//cfp/",
-    "revision": "39df6422d77683c5ef06f13051adfdcb"
+    "revision": "bacb7f82cec8975d8877869a053af851"
   },
   {
     "url": "/2021//",
-    "revision": "025b2bfa6b4b0bd750a10ffa7cb4e995"
+    "revision": "84132da9b65c45a05f5ccc4d415d2d87"
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "4bd37f05863184ad538f7e6ca6e0df91"
+    "revision": "b7750adb460dc2dbccae3a45fbcc2a07"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "dda1bf477fc3b80bb912444770b3c9bf"
+    "revision": "ebce91d328bde0a89b2f1ab1a3029510"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
-    "revision": "b27bded61eb905a0502ac54b5da1a3f2"
+    "revision": "87ba9ae8eee941860eb48d5650e1ace2"
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/",
-    "revision": "84f4166c5588f6a2af9dcfdba2a80b96"
+    "revision": "ec0b498817e9858e2d2f9969c0f49c4e"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
-    "revision": "c03e126fa9329bdd03a5e979403ef7e2"
+    "revision": "f444476308a67ec14ed539e6ba6b76e7"
   },
   {
     "url": "/2021//topics/build-online-technical-community-pandemic-era/",
-    "revision": "0ee00d61fc1a7d3d883e4e3915d6fcf0"
+    "revision": "fcf34ebbcef4a1463ea4cff9f15d1a23"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "e19c0ab060d2c00737c66f058688348a"
+    "revision": "c0312693720eb0c10f2e09895cdcad8c"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
-    "revision": "afdae1b855b2409423268f835ea3848b"
+    "revision": "6e38ecd0ccb2bf22558cd1d818c5dff1"
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/",
-    "revision": "80ebf65a7686587e90ef384ee6318565"
+    "revision": "3eabe6402209cc91ec614b3996f7db6d"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/",
-    "revision": "d206ea7a1a17d98c0dd734c710fa7293"
+    "revision": "5e1f85f6025626ae07cd2841fb3aca42"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
-    "revision": "aa520120e46427ee1db5a3bc352e2d01"
+    "revision": "c6bcf3d787435cbc08a928d9bc6879b6"
   },
   {
     "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/",
-    "revision": "35f45a8a97d036665aac50f4dec2fc73"
+    "revision": "7a5a46748a7d693094d42a2a84ef4710"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
-    "revision": "420af3c6d5aa205601da24d0144b8dc1"
+    "revision": "1f5d2cb2a2a46784549b57efecdee30b"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
-    "revision": "06eaeb5493104f7e173e4814b83c2874"
+    "revision": "193dc3782ad7b76d52f5128680e1356b"
   },
   {
     "url": "/2021//topics/",
-    "revision": "8d5c77d48f2c9af09294b64cf378feee"
+    "revision": "a3249287b042d279fea4a328af751c89"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
-    "revision": "3d08a3b47894f730e0adb1b38efd5bf8"
+    "revision": "9a44e354ced8fcd77c40fb074ab11e49"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/",
-    "revision": "b7c57f95d7c59c056bc0f87f15360d2f"
+    "revision": "f634159b4ad6ff2ec2166b160336941a"
   },
   {
     "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/",
-    "revision": "e03868b6d089bfe7d4309e1c73b4859d"
+    "revision": "92c75440a8c78a4502fb8029277a66e5"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
-    "revision": "c85666a3ae160ac1a1c3e509b3a23d88"
+    "revision": "a4dc6300568ccb1d05768fbb3dc74ea3"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/",
-    "revision": "232c7449b95b5447153863d250bae75a"
+    "revision": "17dfdb7a0ca1332c66fa972a440bd310"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
