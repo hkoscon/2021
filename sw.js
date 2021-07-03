@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "6cd7a55ac18a54a0b1a65cfd14d2db8a"
+    "revision": "f579184c9988c49252e2c0d349ea7391"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -338,10 +338,6 @@ self.__precacheManifest = [
     "revision": "c6bcf3d787435cbc08a928d9bc6879b6"
   },
   {
-    "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/index.html",
-    "revision": "1f9d1db8fe6b6f6c8aea30912af417c5"
-  },
-  {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
     "revision": "1f5d2cb2a2a46784549b57efecdee30b"
   },
@@ -351,7 +347,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "a3249287b042d279fea4a328af751c89"
+    "revision": "30922ed38bc956d241c162c172d189b3"
+  },
+  {
+    "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
+    "revision": "b86282469feec4a5588b069c4671709a"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
@@ -399,7 +399,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "6cd7a55ac18a54a0b1a65cfd14d2db8a"
+    "revision": "f579184c9988c49252e2c0d349ea7391"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -438,10 +438,6 @@ self.__precacheManifest = [
     "revision": "c6bcf3d787435cbc08a928d9bc6879b6"
   },
   {
-    "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/",
-    "revision": "1f9d1db8fe6b6f6c8aea30912af417c5"
-  },
-  {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
     "revision": "1f5d2cb2a2a46784549b57efecdee30b"
   },
@@ -451,7 +447,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "a3249287b042d279fea4a328af751c89"
+    "revision": "30922ed38bc956d241c162c172d189b3"
+  },
+  {
+    "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
+    "revision": "b86282469feec4a5588b069c4671709a"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
