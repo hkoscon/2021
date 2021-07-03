@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "ebce91d328bde0a89b2f1ab1a3029510"
+    "revision": "6cd7a55ac18a54a0b1a65cfd14d2db8a"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/index.html",
-    "revision": "7a5a46748a7d693094d42a2a84ef4710"
+    "revision": "1f9d1db8fe6b6f6c8aea30912af417c5"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
@@ -399,7 +399,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "ebce91d328bde0a89b2f1ab1a3029510"
+    "revision": "6cd7a55ac18a54a0b1a65cfd14d2db8a"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/how-contribute-ansible-module-and-ansible-best-practices/",
-    "revision": "7a5a46748a7d693094d42a2a84ef4710"
+    "revision": "1f9d1db8fe6b6f6c8aea30912af417c5"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
