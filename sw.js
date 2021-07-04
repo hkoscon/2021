@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "f579184c9988c49252e2c0d349ea7391"
+    "revision": "6d6543bbfddc30267828d45e72be1dc5"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -399,7 +399,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "f579184c9988c49252e2c0d349ea7391"
+    "revision": "6d6543bbfddc30267828d45e72be1dc5"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
