@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "6d6543bbfddc30267828d45e72be1dc5"
+    "revision": "b4cb555cdc647216b8594a79b504274a"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -314,8 +314,8 @@ self.__precacheManifest = [
     "revision": "f444476308a67ec14ed539e6ba6b76e7"
   },
   {
-    "url": "/2021//topics/build-online-technical-community-pandemic-era/index.html",
-    "revision": "fcf34ebbcef4a1463ea4cff9f15d1a23"
+    "url": "/2021//topics/building-online-technical-community-era-covid-19/index.html",
+    "revision": "c4dd59988879cdfccf6d811cd22aff1c"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
@@ -347,7 +347,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "30922ed38bc956d241c162c172d189b3"
+    "revision": "07717c3f013a072e9be7b03386eb836a"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
@@ -368,6 +368,10 @@ self.__precacheManifest = [
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
     "revision": "a4dc6300568ccb1d05768fbb3dc74ea3"
+  },
+  {
+    "url": "/2021//topics/speed-your-analytics-projects-using-delta-lake-azure/index.html",
+    "revision": "c49384fc219209165e630ac536382d50"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/index.html",
@@ -399,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "6d6543bbfddc30267828d45e72be1dc5"
+    "revision": "b4cb555cdc647216b8594a79b504274a"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -414,8 +418,8 @@ self.__precacheManifest = [
     "revision": "f444476308a67ec14ed539e6ba6b76e7"
   },
   {
-    "url": "/2021//topics/build-online-technical-community-pandemic-era/",
-    "revision": "fcf34ebbcef4a1463ea4cff9f15d1a23"
+    "url": "/2021//topics/building-online-technical-community-era-covid-19/",
+    "revision": "c4dd59988879cdfccf6d811cd22aff1c"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
@@ -447,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "30922ed38bc956d241c162c172d189b3"
+    "revision": "07717c3f013a072e9be7b03386eb836a"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
@@ -468,6 +472,10 @@ self.__precacheManifest = [
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
     "revision": "a4dc6300568ccb1d05768fbb3dc74ea3"
+  },
+  {
+    "url": "/2021//topics/speed-your-analytics-projects-using-delta-lake-azure/",
+    "revision": "c49384fc219209165e630ac536382d50"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/",
