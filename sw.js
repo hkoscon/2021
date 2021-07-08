@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "c693f3e304be63a76badb7817bf9fd9f"
+    "revision": "17555fc22caa8883cea2c4b5a6364d57"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -307,19 +307,19 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/index.html",
-    "revision": "95f9bff9c6782979c6507cbc8d2c0357"
+    "revision": "66e6c454be919fb2587963f644f37a66"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
-    "revision": "b7de7474e2873b3cdd9b0262feb5657c"
+    "revision": "54e7e52dc9d6c8951f4e34c83766f3eb"
   },
   {
     "url": "/2021//topics/building-online-technical-community-era-covid-19/index.html",
-    "revision": "a1813259834ed493e9a964ce9af4b518"
+    "revision": "6c2327b4df87548ca02a1c95d76db9c0"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "d832447659e26702cd9784bd80238e8f"
+    "revision": "cd6d4ceb3e27a35b77cb1b546e4c75aa"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
@@ -327,27 +327,27 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/index.html",
-    "revision": "95d523848355cb791a892400172302d4"
+    "revision": "c8bc79be14c773704a9adc76158476da"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
-    "revision": "82d66c26d209e6d4b2a55935a3d0e102"
+    "revision": "a348ff024d5a2a676d0654ce96db9d56"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
-    "revision": "1a704c6292508d2d99a449673b972177"
+    "revision": "cad00a8e5c9002a6236c8ef1eaf84516"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
-    "revision": "2bf13b664285295d97f966bf5e454da8"
+    "revision": "2319eaf218d1982121ef1161c3fe42a6"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
-    "revision": "c6538cc7b0ad3a46f3dce5072b3c989f"
+    "revision": "42cbf307a1489971eed5a72c298ccca1"
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "60d5d57812609e804ae72df6b9aa5676"
+    "revision": "c5f7b8d40c97883f833451b3c94af5fe"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
@@ -359,7 +359,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/index.html",
-    "revision": "ff7d67ba2a4d7021e19cc6fb578d93af"
+    "revision": "14a09397e8eda1b73ab8a4c7dc86785c"
   },
   {
     "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/index.html",
@@ -403,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "c693f3e304be63a76badb7817bf9fd9f"
+    "revision": "17555fc22caa8883cea2c4b5a6364d57"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -411,19 +411,19 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/",
-    "revision": "95f9bff9c6782979c6507cbc8d2c0357"
+    "revision": "66e6c454be919fb2587963f644f37a66"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
-    "revision": "b7de7474e2873b3cdd9b0262feb5657c"
+    "revision": "54e7e52dc9d6c8951f4e34c83766f3eb"
   },
   {
     "url": "/2021//topics/building-online-technical-community-era-covid-19/",
-    "revision": "a1813259834ed493e9a964ce9af4b518"
+    "revision": "6c2327b4df87548ca02a1c95d76db9c0"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "d832447659e26702cd9784bd80238e8f"
+    "revision": "cd6d4ceb3e27a35b77cb1b546e4c75aa"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
@@ -431,27 +431,27 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/",
-    "revision": "95d523848355cb791a892400172302d4"
+    "revision": "c8bc79be14c773704a9adc76158476da"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/",
-    "revision": "82d66c26d209e6d4b2a55935a3d0e102"
+    "revision": "a348ff024d5a2a676d0654ce96db9d56"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
-    "revision": "1a704c6292508d2d99a449673b972177"
+    "revision": "cad00a8e5c9002a6236c8ef1eaf84516"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
-    "revision": "2bf13b664285295d97f966bf5e454da8"
+    "revision": "2319eaf218d1982121ef1161c3fe42a6"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
-    "revision": "c6538cc7b0ad3a46f3dce5072b3c989f"
+    "revision": "42cbf307a1489971eed5a72c298ccca1"
   },
   {
     "url": "/2021//topics/",
-    "revision": "60d5d57812609e804ae72df6b9aa5676"
+    "revision": "c5f7b8d40c97883f833451b3c94af5fe"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
@@ -463,7 +463,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/",
-    "revision": "ff7d67ba2a4d7021e19cc6fb578d93af"
+    "revision": "14a09397e8eda1b73ab8a4c7dc86785c"
   },
   {
     "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/",
