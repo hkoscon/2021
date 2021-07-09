@@ -295,11 +295,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "33bdc965c94e4d02a6414f3d1fc9f2b0"
+    "revision": "2f60ac4e8970a95bf334e1b81f7dfbec"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "1126c102572e90ea5ac3ea753c610bba"
+    "revision": "48ed0358bc15b39d09385cba80de1d47"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -335,7 +335,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
-    "revision": "6cdca409490d744ae5d96cbdb7ebce6a"
+    "revision": "643569ccb0a60f3aeadcb9a34972d3e7"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
@@ -347,7 +347,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "e851c7a11531188e35d5868d421f8fcb"
+    "revision": "7ebd738fad7d0cc11d1ab5693655b7dc"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
@@ -399,11 +399,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "33bdc965c94e4d02a6414f3d1fc9f2b0"
+    "revision": "2f60ac4e8970a95bf334e1b81f7dfbec"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "1126c102572e90ea5ac3ea753c610bba"
+    "revision": "48ed0358bc15b39d09385cba80de1d47"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -439,7 +439,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
-    "revision": "6cdca409490d744ae5d96cbdb7ebce6a"
+    "revision": "643569ccb0a60f3aeadcb9a34972d3e7"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
@@ -451,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "e851c7a11531188e35d5868d421f8fcb"
+    "revision": "7ebd738fad7d0cc11d1ab5693655b7dc"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
