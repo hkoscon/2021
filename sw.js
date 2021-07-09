@@ -295,11 +295,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "00fc0e409279646d7d3fd8f0d6646650"
+    "revision": "33bdc965c94e4d02a6414f3d1fc9f2b0"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "e6f34e5ce40142f04b6e8c45899a29ab"
+    "revision": "1126c102572e90ea5ac3ea753c610bba"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -399,11 +399,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "00fc0e409279646d7d3fd8f0d6646650"
+    "revision": "33bdc965c94e4d02a6414f3d1fc9f2b0"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "e6f34e5ce40142f04b6e8c45899a29ab"
+    "revision": "1126c102572e90ea5ac3ea753c610bba"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
