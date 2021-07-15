@@ -295,87 +295,87 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/index.html",
-    "revision": "9b1dc60b6d6f8eb9b8a3b2d7649436f7"
+    "revision": "b84981862a2603a380b3432424adc18e"
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "1a7b08953732fbc5edd94292cfc567af"
+    "revision": "64d8b8f18f3b8e0af2bac35a33e68946"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
-    "revision": "d1d4e88047e846e5589cc4eb656496b2"
+    "revision": "ef1215d6cdb34cd4fcd32f091725ed31"
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/index.html",
-    "revision": "69e75d95605b4154e2d7e8bf1e764af6"
+    "revision": "0cfcc34452e4371b1a05915509d0e114"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/index.html",
-    "revision": "d4fc8d2a7a7ba199674d38cbf8076fc3"
+    "revision": "fdaa33f28bea3bacc6d572d7c876a18d"
   },
   {
     "url": "/2021//topics/building-online-technical-community-era-covid-19/index.html",
-    "revision": "2bdd55ca77366513de4bc3d2f605f70d"
+    "revision": "7eeeaeb884cf2c64d683d2aa26948aad"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "c4c3326337b83eb9feeca0d187bbf374"
+    "revision": "54a6d08bc630c722408c8eac77fea1c7"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
-    "revision": "33bb004fffd62e0e21f1787b89fcb625"
+    "revision": "e7ac504ed8c6a0e5d1f5b48d8d27e3dd"
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/index.html",
-    "revision": "40f1608f7dcaff2b765b8699848c56d2"
+    "revision": "840987561e8f918a174f1e7508b756b6"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/index.html",
-    "revision": "69ccffd230f6af7b86ab41407bbf96e8"
+    "revision": "62c4e2860bd61fcddeed8855f150629d"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/index.html",
-    "revision": "e10c0fda64d78b5f182d3199f36d38bb"
+    "revision": "43fe088641ff89d98c2428873403c79b"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/index.html",
-    "revision": "43c670f6c530cc2376828647ce2d7f57"
+    "revision": "eeb1a981ae7b998f414e24c6b9fd54e9"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/index.html",
-    "revision": "4cddc9d7f1fa07f4254d72973a721988"
+    "revision": "57289516f0d5376e6589f0e4b38d6785"
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "a30a1a7506f7eb12b023f0e66e99b83d"
+    "revision": "f196a5a1b029c27c6b363606d32ab2d9"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
-    "revision": "8487cbd1ad889d3f9833d3aca7a3956e"
+    "revision": "12bf49ee1011b17db3bc30dbbe29bcf7"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
-    "revision": "79916446035ea3f3cd3beefc4557ce52"
+    "revision": "b16f013611a580ad47cc8fea4d51b1f8"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/index.html",
-    "revision": "a5f40b08491a317a46ecdaaf91b252f4"
+    "revision": "543dc3702b84548847c09e433e34b515"
   },
   {
-    "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/index.html",
-    "revision": "e498c1346e12321dafce1dbd85790d72"
+    "url": "/2021//topics/open-source-culture-cgi-vfx-industry/index.html",
+    "revision": "e9240738d2c459f1f273e0e6d3ca657b"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
-    "revision": "df4b2063bdb235a5fa4ce7cd893a48ea"
+    "revision": "765907bf291e334f8e83e64fb79aad07"
   },
   {
     "url": "/2021//topics/speed-your-analytics-projects-using-delta-lake-azure/index.html",
-    "revision": "a3bdb46c5ef8382e5970e1e6927d9ce2"
+    "revision": "ce93981c2975e0f23d1a77f478fcdc6f"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/index.html",
-    "revision": "f0eb0f9d1fa1597b7d8c510ab3f9c2f7"
+    "revision": "3e6fd36a08fa4ea89e59905dcb7036ca"
   },
   {
     "url": "/2021//about/organizers/",
@@ -399,87 +399,87 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//sponsors/",
-    "revision": "9b1dc60b6d6f8eb9b8a3b2d7649436f7"
+    "revision": "b84981862a2603a380b3432424adc18e"
   },
   {
     "url": "/2021//timetable/",
-    "revision": "1a7b08953732fbc5edd94292cfc567af"
+    "revision": "64d8b8f18f3b8e0af2bac35a33e68946"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
-    "revision": "d1d4e88047e846e5589cc4eb656496b2"
+    "revision": "ef1215d6cdb34cd4fcd32f091725ed31"
   },
   {
     "url": "/2021//topics/beyond-cuda-gpu-accelerated-python-cross-vendor-graphics-cards-vulkan-kompute/",
-    "revision": "69e75d95605b4154e2d7e8bf1e764af6"
+    "revision": "0cfcc34452e4371b1a05915509d0e114"
   },
   {
     "url": "/2021//topics/bof-raspberry-pi-400-compute-module-4-raspberry-pi-pico-and-more-lets-discuss-how-make-your/",
-    "revision": "d4fc8d2a7a7ba199674d38cbf8076fc3"
+    "revision": "fdaa33f28bea3bacc6d572d7c876a18d"
   },
   {
     "url": "/2021//topics/building-online-technical-community-era-covid-19/",
-    "revision": "2bdd55ca77366513de4bc3d2f605f70d"
+    "revision": "7eeeaeb884cf2c64d683d2aa26948aad"
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "c4c3326337b83eb9feeca0d187bbf374"
+    "revision": "54a6d08bc630c722408c8eac77fea1c7"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
-    "revision": "33bb004fffd62e0e21f1787b89fcb625"
+    "revision": "e7ac504ed8c6a0e5d1f5b48d8d27e3dd"
   },
   {
     "url": "/2021//topics/enhance-grafana-performance-mysql-database-service-and-heatwave/",
-    "revision": "40f1608f7dcaff2b765b8699848c56d2"
+    "revision": "840987561e8f918a174f1e7508b756b6"
   },
   {
     "url": "/2021//topics/flutterkaifalinux-desktop-application/",
-    "revision": "69ccffd230f6af7b86ab41407bbf96e8"
+    "revision": "62c4e2860bd61fcddeed8855f150629d"
   },
   {
     "url": "/2021//topics/hk-independent-bus-eta-ad-free-app-bus-estimated-time-arrival/",
-    "revision": "e10c0fda64d78b5f182d3199f36d38bb"
+    "revision": "43fe088641ff89d98c2428873403c79b"
   },
   {
     "url": "/2021//topics/how-rt-thread-iot-os-begins-and-grows/",
-    "revision": "43c670f6c530cc2376828647ce2d7f57"
+    "revision": "eeb1a981ae7b998f414e24c6b9fd54e9"
   },
   {
     "url": "/2021//topics/i-write-my-own-web-desktop-os-3-years-and-what-it-looks-now/",
-    "revision": "4cddc9d7f1fa07f4254d72973a721988"
+    "revision": "57289516f0d5376e6589f0e4b38d6785"
   },
   {
     "url": "/2021//topics/",
-    "revision": "a30a1a7506f7eb12b023f0e66e99b83d"
+    "revision": "f196a5a1b029c27c6b363606d32ab2d9"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
-    "revision": "8487cbd1ad889d3f9833d3aca7a3956e"
+    "revision": "12bf49ee1011b17db3bc30dbbe29bcf7"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
-    "revision": "79916446035ea3f3cd3beefc4557ce52"
+    "revision": "b16f013611a580ad47cc8fea4d51b1f8"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/",
-    "revision": "a5f40b08491a317a46ecdaaf91b252f4"
+    "revision": "543dc3702b84548847c09e433e34b515"
   },
   {
-    "url": "/2021//topics/open-source-movement-hollywood-impacting-motion-picture-industry-hong-kongs-digital-ink/",
-    "revision": "e498c1346e12321dafce1dbd85790d72"
+    "url": "/2021//topics/open-source-culture-cgi-vfx-industry/",
+    "revision": "e9240738d2c459f1f273e0e6d3ca657b"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
-    "revision": "df4b2063bdb235a5fa4ce7cd893a48ea"
+    "revision": "765907bf291e334f8e83e64fb79aad07"
   },
   {
     "url": "/2021//topics/speed-your-analytics-projects-using-delta-lake-azure/",
-    "revision": "a3bdb46c5ef8382e5970e1e6927d9ce2"
+    "revision": "ce93981c2975e0f23d1a77f478fcdc6f"
   },
   {
     "url": "/2021//topics/your-mysql-genuine-mysql/",
-    "revision": "f0eb0f9d1fa1597b7d8c510ab3f9c2f7"
+    "revision": "3e6fd36a08fa4ea89e59905dcb7036ca"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
