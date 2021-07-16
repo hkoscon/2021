@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "64d8b8f18f3b8e0af2bac35a33e68946"
+    "revision": "eccde0164acab7724b0e515edaa1c930"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -319,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/index.html",
-    "revision": "54a6d08bc630c722408c8eac77fea1c7"
+    "revision": "89a67e66bac3825d164ef26826de22ec"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/index.html",
@@ -347,15 +347,15 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "f196a5a1b029c27c6b363606d32ab2d9"
+    "revision": "e0eb7c9b715ef1c925425b92f13154bb"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
-    "revision": "12bf49ee1011b17db3bc30dbbe29bcf7"
+    "revision": "decfbc4adbd232f315867186eb2f99e0"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
-    "revision": "b16f013611a580ad47cc8fea4d51b1f8"
+    "revision": "02f02b859ffa66ba028b3126c81e9709"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/index.html",
@@ -403,7 +403,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "64d8b8f18f3b8e0af2bac35a33e68946"
+    "revision": "eccde0164acab7724b0e515edaa1c930"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -423,7 +423,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/drug-icon-ccyaowutubiao-creative-commons/",
-    "revision": "54a6d08bc630c722408c8eac77fea1c7"
+    "revision": "89a67e66bac3825d164ef26826de22ec"
   },
   {
     "url": "/2021//topics/embedded-linux-risc-v-beaglev-yocto-and-openembedded/",
@@ -451,15 +451,15 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "f196a5a1b029c27c6b363606d32ab2d9"
+    "revision": "e0eb7c9b715ef1c925425b92f13154bb"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
-    "revision": "12bf49ee1011b17db3bc30dbbe29bcf7"
+    "revision": "decfbc4adbd232f315867186eb2f99e0"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
-    "revision": "b16f013611a580ad47cc8fea4d51b1f8"
+    "revision": "02f02b859ffa66ba028b3126c81e9709"
   },
   {
     "url": "/2021//topics/open-core-open-opportunities/",
