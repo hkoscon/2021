@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/index.html",
-    "revision": "eccde0164acab7724b0e515edaa1c930"
+    "revision": "82cd690bcd8d74108527d1df157e51bd"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/index.html",
@@ -347,11 +347,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/index.html",
-    "revision": "e0eb7c9b715ef1c925425b92f13154bb"
+    "revision": "f65e5299002bf17e74a7f960d740d195"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/index.html",
-    "revision": "decfbc4adbd232f315867186eb2f99e0"
+    "revision": "0ffe99addfa89f46143297bbbb55a853"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/index.html",
@@ -364,6 +364,10 @@ self.__precacheManifest = [
   {
     "url": "/2021//topics/open-source-culture-cgi-vfx-industry/index.html",
     "revision": "e9240738d2c459f1f273e0e6d3ca657b"
+  },
+  {
+    "url": "/2021//topics/opening/index.html",
+    "revision": "298538a002ac813c95c56b6df5ce9cc0"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/index.html",
@@ -403,7 +407,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//timetable/",
-    "revision": "eccde0164acab7724b0e515edaa1c930"
+    "revision": "82cd690bcd8d74108527d1df157e51bd"
   },
   {
     "url": "/2021//topics/beifenxianggangjilulishiqukuailiancundangjishudeyingyong/",
@@ -451,11 +455,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/2021//topics/",
-    "revision": "e0eb7c9b715ef1c925425b92f13154bb"
+    "revision": "f65e5299002bf17e74a7f960d740d195"
   },
   {
     "url": "/2021//topics/integrating-ansible-automation-and-chatops/",
-    "revision": "decfbc4adbd232f315867186eb2f99e0"
+    "revision": "0ffe99addfa89f46143297bbbb55a853"
   },
   {
     "url": "/2021//topics/introducing-quarkus-supersonic-subatomic-java-framework/",
@@ -468,6 +472,10 @@ self.__precacheManifest = [
   {
     "url": "/2021//topics/open-source-culture-cgi-vfx-industry/",
     "revision": "e9240738d2c459f1f273e0e6d3ca657b"
+  },
+  {
+    "url": "/2021//topics/opening/",
+    "revision": "298538a002ac813c95c56b6df5ce9cc0"
   },
   {
     "url": "/2021//topics/sneak-preview-mysql-operator-kubernetes/",
